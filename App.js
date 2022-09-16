@@ -8,7 +8,7 @@ export default function MainApp(){
       justifyContent: 'center',
       alignItems: 'center'
     }}>
-      <Text>git Niraj Nepal</Text>
+      <Text>Niraj Nepal</Text>
       <Text>301211100</Text>
     </View>
     
